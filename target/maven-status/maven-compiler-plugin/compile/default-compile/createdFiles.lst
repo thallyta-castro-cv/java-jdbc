@@ -1,0 +1,5 @@
+src\main\java\InsertNewPerson.class
+src\main\java\CreateDatabase.class
+src\main\java\CreateTablePeople.class
+src\main\java\TestConnection.class
+src\main\java\ConnectionFactory.class
