@@ -1,4 +1,4 @@
-# Projeto Java com JPA
+# Projeto Java com JDBC
 
 
 Este projeto foi criado Java, JDBC e MySQL.
